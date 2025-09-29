@@ -1,0 +1,30 @@
+﻿Gender,Age,Height(cm),Sport,Level of Satisfaction,Salary ($)
+F,25,160.6,Y,Very Satisfied ,1500
+F,54,170,N,Very Satisfied ,1000
+F,30,155.1,Y,Not Satisfied,500
+M,34,165.7,N,Satisfied,800
+M,29,177.2,N,Satisfied,800
+M,48,168.6,N,Satisfied,450
+F,44,166.7,Y,Not Satisfied,350
+M,43,180,Y,Very Satisfied ,2000
+F,25,173.5,Y,Not Satisfied,330
+M,51,170,Y,Very Satisfied ,400
+M,50,160,Y,Not Satisfied,600
+M,34,157.5,Y,Very Satisfied ,1000
+F,53,150,Y,Very Satisfied ,1100
+M,28,165.4,N,Very Satisfied ,890
+M,35,163.5,Y,Very Satisfied ,600
+M,34,190,N,Not Satisfied,750
+F,26,164.3,Y,Very Satisfied ,700
+F,26,169,Y,Very Satisfied ,840
+M,38,180,Y,Satisfied,330
+F,61,174.5,N,Not Satisfied,460
+M,65,174.3,Y,Satisfied,200
+M,49,170,Y,Satisfied,890
+F,57,169,N,Not Satisfied,900
+F,53,157.6,N,Not Satisfied,950
+F,68,166,N,Not Satisfied,1100
+F,65,162.5,N,Not Satisfied,230
+F,45,163,Y,Very Satisfied ,900
+F,40,159,Y,Very Satisfied ,1000
+M,36,175,Y,Very Satisfied ,1200
